@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-name-generator/static/css/main.f0c8ca91.chunk.css",
+    "main.js": "/react-name-generator/static/js/main.b53199c6.chunk.js",
+    "main.js.map": "/react-name-generator/static/js/main.b53199c6.chunk.js.map",
+    "runtime-main.js": "/react-name-generator/static/js/runtime-main.2ac0965c.js",
+    "runtime-main.js.map": "/react-name-generator/static/js/runtime-main.2ac0965c.js.map",
+    "static/js/2.159035d6.chunk.js": "/react-name-generator/static/js/2.159035d6.chunk.js",
+    "static/js/2.159035d6.chunk.js.map": "/react-name-generator/static/js/2.159035d6.chunk.js.map",
+    "index.html": "/react-name-generator/index.html",
+    "precache-manifest.928fd2cc1faaf5e98d749b2ba5566b9f.js": "/react-name-generator/precache-manifest.928fd2cc1faaf5e98d749b2ba5566b9f.js",
+    "service-worker.js": "/react-name-generator/service-worker.js",
+    "static/css/main.f0c8ca91.chunk.css.map": "/react-name-generator/static/css/main.f0c8ca91.chunk.css.map",
+    "static/js/2.159035d6.chunk.js.LICENSE.txt": "/react-name-generator/static/js/2.159035d6.chunk.js.LICENSE.txt",
+    "static/media/react-name-logo.svg": "/react-name-generator/static/media/react-name-logo.79cb9c35.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ac0965c.js",
+    "static/js/2.159035d6.chunk.js",
+    "static/css/main.f0c8ca91.chunk.css",
+    "static/js/main.b53199c6.chunk.js"
+  ]
+}
